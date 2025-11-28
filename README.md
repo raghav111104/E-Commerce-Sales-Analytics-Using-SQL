@@ -14,7 +14,6 @@ The project uses 5 main tables:
 * **Orders**
 * **OrderDetails**
 * **Regions**
-* **Returns** *(if included)*
 
 These tables together represent a real-world e-commerce transactional system.
 
